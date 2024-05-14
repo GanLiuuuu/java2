@@ -8,7 +8,7 @@ ApplicationWindow {
     height: 640
     minimumWidth: 640
     minimumHeight: 480
-    title: qsTr("My App")
+    title: qsTr("Chat Room")
     //top menu bar
     Rectangle {
             width: parent.width // 宽度和窗口宽度相同
